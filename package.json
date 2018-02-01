@@ -10,7 +10,7 @@
   "dependencies": {
     "github-webhook-handler": "^0.7.1",
     "moment": "^2.20.1",
-    "mongodb": "^3.0.1",
+    "mongodb": "^3.0.2",
     "nodejieba": "^2.2.5",
     "string_decoder": "^1.0.3"
   }
